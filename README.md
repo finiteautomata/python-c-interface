@@ -13,10 +13,10 @@ To get it as a submodule:
 git submodule init
 git submodule update
 cd pybind11/
-pip install
+pip install .
 ```
 
-Then, to run
+Then, run pybind example:
 
 ```
 cd pybind_examples/02_type_conversions
